@@ -1,0 +1,1 @@
+console.log('Bem-vinda ao curso da Cubos Academy')
